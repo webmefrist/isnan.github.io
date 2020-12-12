@@ -1,0 +1,22 @@
+*{
+	margin: 0px;
+	padding:0px;
+}
+body{
+	font: 16px/28px arial, sans-serif;
+	color: black;
+	background-image:url(latar.jpg);
+	background-repeat: no-repeat;
+    background-position: 100px 100px;
+    color: white;
+	
+	padding-top:50px;
+}
+
+.container{
+	background-color: LightGray;
+	border-radius:10px;
+}
+.h1{
+	text-align:center;
+}

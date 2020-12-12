@@ -1,0 +1,44 @@
+/*!
+ * Start Bootstrap - Blog Home (https://startbootstrap.com/template/blog-home)
+ * Copyright 2013-2020 Start Bootstrap
+ * Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-blog-home/blob/master/LICENSE)
+ */
+
+body {
+  padding-top: 56px;
+  background-color:black;
+  font-family: times new roman;
+}
+	
+.container{
+	background-color:Lightgrey;
+	border-radius:10px;
+	
+}
+.navbar-brand{
+
+}
+.card-footer {
+	padding-bottom:10px;
+}
+
+.card-body{
+	padding-top:10px;
+}
+.cardmb.4{
+	padding-bottom:30px;
+	background-color:;
+}
+.container a:hover{
+	background-color:lavenderblush;
+	color:plum;
+}
+.garis{
+	border-bottom: none;
+	padding-top: 30px;
+}
+.card1{
+	text-align:justify;
+	background-color:lightblue;
+    border: 10px solid white;
+}
